@@ -1,0 +1,135 @@
+body{display: grid;
+    margin: 10px;
+    padding: 10px;
+    /* margin-left: 150px; */
+    margin-right: 200px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 400px auto;
+    border: 5px solid black;
+
+}
+.container01{
+    /* display: grid; */
+    margin: 20px;
+    /* border: 2px solid #000; */
+    text-align: center;
+
+}
+.img{
+    height: 200px;
+    color: #ffffff;
+    background-color: #00ff;
+    border: 1px solid #00ff;
+}
+.myimg{
+    border-radius: 44px;
+    height: 100px;
+    width: 100px;
+}
+.gitlink{
+    color: #ffffff;
+    border: none;
+}
+a {
+    text-decoration: none;
+    color: cornsilk;
+}
+.information{
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+}
+b{
+    font-size: xx-large;
+    margin-left: -131px;
+}
+.whiteline{
+    margin-left: 41px;
+    height: 2px;
+    width: 230px;
+    background-color: white;
+}
+p.detel {
+    margin-top: 10px;
+    margin-left: -144px;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.whitelines{
+    margin: 8px;
+    border-radius: 3px;
+    margin-left: 68px;
+    height: 6px;
+    width: 151px;
+    background-color: white;
+    background-color: #00ff;
+}
+.allskills{
+    margin-top: 59px;
+}
+#logo{
+    border-radius: 12px;
+    height: 25px;
+    width: 27px;
+
+}
+.cer{
+    margin-left: -44px;
+}
+.Certificates{
+    margin-top: 60px;
+}
+.namecer {
+    text-align: start;
+    margin-top: 30px;
+}
+
+
+
+
+.obj{
+    margin-left: -322px;
+    color: #00ff;
+}
+
+.delwhiteline{
+    margin-left: 41px;
+    height: 2px;
+    width: 520px;
+    background-color: #000; 
+} 
+.education {
+        margin-top: 30px;
+    }
+.nowork {
+    margin-top: 28px;
+}
+.project {
+    margin-top: 30px;
+}
+#workexp{
+    margin-left: -64px;
+}
+#project{
+    margin-right: 34px;
+}
+.paragraph{
+    height: 70px;
+    width: 600px;
+}
+.arrow{ 
+    display: flex;
+    margin-left: 42px;
+    margin-top: 10px;
+}
+h2{
+    margin-top: -6px;
+    margin-left: 23px;
+}
+.project p{
+    margin: 0px;
+}
